@@ -1,0 +1,5 @@
+[package]
+
+name = "markov_chains"
+version = "0.0.1"
+authors = ["Leon Kunert <info@leonkunert.de>"]
